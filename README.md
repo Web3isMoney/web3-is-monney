@@ -1,10 +1,10 @@
 # web3-is-money
 
-## 人人都可以赚一个亿
+## [人人都可以赚一个亿](https://btcking.gitbook.io/web3-is-monney/)
 
-## [https://btcking.gitbook.io/web3-is-monney/](https://btcking.gitbook.io/web3-is-monney/)
+## [币圈数据看版](https://lianyanshe.com/cryptocurrency/dashboard)
 
-## 币圈数据看版[https://lianyanshe.com/cryptocurrency/dashboard](https://lianyanshe.com/cryptocurrency/dashboard)
+## [《聪明的投资者（币圈版）》](https://btcdayu.gitbook.io/dayu/)
 
 ## [日拱一卒网站：Web3 致力于分享各种有价值的东西](https://xiaolou.zhubai.love/)
 
